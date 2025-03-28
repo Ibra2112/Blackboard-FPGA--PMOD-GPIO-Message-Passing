@@ -1,0 +1,33 @@
+# Vitis & Vivado build artifacts
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.elf
+
+# Temporary or auto-generated files
+*.tmp
+*.bak
+*.backup
+
+# Project metadata
+.project
+.settings/
+.cache/
+.hw/
+.runs/
+.sim/
+.sdk/
+.build/
+.ip_user_files/
+.webtalk/
+
+# IDE and OS junk
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if using)
+.vscode/
